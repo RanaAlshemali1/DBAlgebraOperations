@@ -1,4 +1,4 @@
-# Database Managment: Algebra Operations
+# Database Managment: Algebra Operations | Jan 2018
 In this program we implement the following relational algebra operators: Select, Project, Union, Minus and Join.
 
 ## Files Description: 
